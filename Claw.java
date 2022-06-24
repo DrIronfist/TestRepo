@@ -1,10 +1,8 @@
-public static void main(){
+public class Claw{
 
-operateClaw(12);
-}
 
-private void operateClaw(int v){
 
-DCMotor.run(v);
-
+    public static void main(String[] args){
+        System.out.println("Random script");
+    }
 }
